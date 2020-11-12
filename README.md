@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :octocat:
 
 <!--
 **Samarium150/Samarium150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :man_student: Current undergraduate student of computer science at University of Toronto Mississauga
+- :books: Currently learning scalable computing and algebraic cryptography
+- :globe_with_meridians: Language speaking: manderin Chinese / English
+- :mailbox: Contact info:
+    - Discord: Samarium#7775
+    - Steam: [Samarium150](https://steamcommunity.com/id/941295333)
