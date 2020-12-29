@@ -22,7 +22,6 @@ Here are some ideas to get you started:
     - Steam: [Samarium150](https://steamcommunity.com/id/941295333)
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Samarium150&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarium150&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Samarium150&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
