@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :man_student: Current undergraduate student of computer science at University of Toronto Mississauga
-- :books: Currently learning scalable computing and algebraic cryptography
+- :books: Currently learning image processing and computer graphics
 - :globe_with_meridians: Language speaking: manderin Chinese / English
 - :mailbox: Contact info:
     - Discord: Samarium#7775
