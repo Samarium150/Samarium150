@@ -21,10 +21,9 @@
 [![](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=fff)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/-C++-red?style=flat-square&logo=C%2B%2B&logoColor=fff)](https://www.cplusplus.com/)
 [![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
-- Platforms I'm familiar with: <br>
+- :wind_chime: Platforms I'm familiar with: <br>
 [![](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=fff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/en-ca/windows)
 
-Thanks to all visitors
-
+Thanks to all visitors <br>
 [![visitors](https://profile-counter.glitch.me/Samarium150/count.svg)]()
