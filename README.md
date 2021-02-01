@@ -9,11 +9,10 @@
     - Discord: Samarium#7775
     - Steam: [Samarium150](https://steamcommunity.com/id/941295333)
 - :chart_with_upwards_trend: Distribution of computer languages: <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarium150&layout=compact&langs_count=6 "Top languages")]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarium150&exclude_repo=jekyll-TeXt-theme-template,samarium150.github.io&layout=compact&langs_count=6 "Top languages")]()
 
 - :timer_clock: Distribution of my time every week: <br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Samarium150&layout=compact)](https://wakatime.com/@Samarium150 "WakaTime")
-
 
 - :mechanical_arm: List of some languagues I would like to use: <br>
 [![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
