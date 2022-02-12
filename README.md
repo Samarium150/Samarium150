@@ -1,12 +1,10 @@
-
-
 ## Hi there :octocat:
 <a title="stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Samarium150&count_private=true&show_icons=true" /></a>
 - :man_student: Just graduated from University of Toronto Mississauga as an undergraduate student of computer science
-- :books: Currently learning natural language processing
+- :books: Currently learning nothing
 - :sparkles: Currently trying to develop some Minecraft mods
 - :globe_with_meridians: Language speaking: mandarin Chinese / English
-- :mailbox: Contact info:
+- :mailbox: Contact info: <a title="trophy"><img align="right" src="https://github-profile-trophy.vercel.app/?username=samarium150&row=2&column=3&margin-w=5&margin-h=5&no-bg=true" /></a>
     - Discord: Samarium#7775
     - Steam: [Samarium150](https://steamcommunity.com/id/941295333)
 - :chart_with_upwards_trend: Distribution of computer languages: <br>
