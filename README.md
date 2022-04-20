@@ -7,9 +7,9 @@
 - :mailbox: Contact info:
     - Discord: Samarium#7775
     - Steam: [Samarium150](https://steamcommunity.com/id/941295333)
-- :chart_with_upwards_trend: Distribution of computer languages:  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarium150&exclude_repo=jekyll-TeXt-theme-template,samarium150.github.io&layout=compact&langs_count=6 "Top languages")]()
 <a title="trophy"><img align="right" src="https://github-profile-trophy.vercel.app/?username=samarium150&row=2&column=3&margin-w=5&margin-h=5&no-bg=true" /></a>
+- :chart_with_upwards_trend: Distribution of computer languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarium150&exclude_repo=jekyll-TeXt-theme-template,samarium150.github.io&layout=compact&langs_count=6 "Top languages")]()
 
 - :timer_clock: Distribution of my time every week:  
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Samarium150&layout=compact)](https://wakatime.com/@Samarium150 "WakaTime")
