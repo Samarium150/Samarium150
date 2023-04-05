@@ -2,14 +2,14 @@
 <a title="stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Samarium150&count_private=true&show_icons=true" /></a>
 
 - :school: Just become a graduate student in the University of Alberta
-- :books: Currently studying software engineering
+- :books: Currently studying Artificial Intelligence in video games
 - :sparkles: Trying to graduate
 - :globe_with_meridians: Language speaking: mandarin Chinese / English
 - :mailbox: Contact info:
-    - Discord: Samarium#7775
+    - Discord: Samarium#0042
     - Steam: [Samarium150](https://steamcommunity.com/id/941295333)
     <a title="trophy"><img align="right" src="https://github-profile-trophy.vercel.app/?username=samarium150&row=2&column=3&margin-w=5&margin-h=5&no-bg=true" /></a>
-- :chart_with_upwards_trend: Distribution of computer languages:
+- :chart_with_upwards_trend: Distribution of computer languages used in my repositories:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarium150&exclude_repo=jekyll-TeXt-theme-template,samarium150.github.io&layout=compact&langs_count=6 "Top languages")]()
 
 - :timer_clock: Distribution of my time every week:  
