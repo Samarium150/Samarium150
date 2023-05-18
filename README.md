@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarium150&exclude_repo=jekyll-TeXt-theme-template,samarium150.github.io&layout=compact&langs_count=6 "Top languages")]()
 
 - :timer_clock: Distribution of my time every week:  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Samarium150&layout=compact)](https://wakatime.com/@Samarium150 "WakaTime")
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Samarium&range=last_7_days&layout=compact)](https://wakatime.com/@Samarium "WakaTime")
 
 - :mechanical_arm: List of some languages I would like to use:  
 [![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
@@ -24,6 +24,7 @@
 - :wind_chime: Platforms I'm familiar with:   
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=fff)](https://ubuntu.com/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/en-ca/windows)
+[![macOS](https://img.shields.io/badge/-macOS-blueviolet?style=flat-square&logo=Apple)](https://www.apple.com/macos/)
 
 Thanks to all visitors  
 [![visitors](https://profile-counter.glitch.me/Samarium150/count.svg)]()
